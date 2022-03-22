@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/ga4-test/static/js/main.fa4a0db0.js",
+    "main.js": "/ga4-test/static/js/main.5cadbf00.js",
     "static/js/787.73353d92.chunk.js": "/ga4-test/static/js/787.73353d92.chunk.js",
     "index.html": "/ga4-test/index.html",
-    "main.fa4a0db0.js.map": "/ga4-test/static/js/main.fa4a0db0.js.map",
+    "main.5cadbf00.js.map": "/ga4-test/static/js/main.5cadbf00.js.map",
     "787.73353d92.chunk.js.map": "/ga4-test/static/js/787.73353d92.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.fa4a0db0.js"
+    "static/js/main.5cadbf00.js"
   ]
 }
